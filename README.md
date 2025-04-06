@@ -15,7 +15,6 @@
 - 💬 Let's talk about **AI, ML, Python, TensorFlow, cloud integrations**
 - 🌱 Constantly learning **MLOps, Generative AI, and edge deployment**
 - 📫 Reach me at: **[zuhairhaleem8@gmail.com](mailto:your.email@example.com)**
-- 
 ---
 
 ## 🧠 Languages, Tools & Technologies
